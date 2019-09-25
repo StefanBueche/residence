@@ -1,0 +1,55 @@
+-> Logan of Riverguard                       ID# 31
+Scry Ruin ID# 875
+Coat of Arms : Masked
+At 69/39
+Retreat Threshold : 0%
+Reserve options : S6=Reserve.(0), S7=Reserve.(0), S8=Reserve.(0)
+
+No commanding character.
+
+AMT      ITEM #  NAME OF ITEM                             WEIGHT
+1768        409  Kronen                                     8,84
+1           404  Aspen {Vial}                               0,02
+1           505  Kleiner Hexenmeister {Book}                0,56
+1           507  Und Weffin sagte: {Book}                   0,54
+1           640  Rotes Juwel {Jewel}                        0,01
+1           664  Wachenpanzer (M) {Arm}                     1,00
+1           715  Assassine Tracht (K) {Arm}                 0,50
+1           716  Meistersch.Bogen {Bow}                     2,15
+1           724  Altar der Magie {Altar}                  125,00
+1           725  Zahn des Vampir's {Wpn}                    0,40
+1           734  Die Heimat ruft {Bell}                     1,00
+1           750  Schattenhellebarde {Wpn}                   2,00
+1           810  Zaubererstab {Wpn}                         0,60
+1           882  Rufe Zombies {Orb}                         0,50
+2           945  Die Neue Ordnung {Book}                    2,38
+1           983  Schwerer Ork Panzer {Arm}                  7,50
+1          1009  Drakkenstab {Wpn}                          0,50
+1          1010  Drachenfluchring {Ring}                    0,05
+1          1015  Erdteich Axt {Axe}                         2,50
+1          1042  Robe des Schutzes {Arm}                    2,00
+1          1049  Gar'Kens Elfenbann {Swd}                   1,50
+1          1105  Meldorian Samen                            0,10
+1          1106  Traum Essenz                               0,10
+1          1133  Namenloser Dolch {Wpn}                     1,25
+Entry conditions : No Special entry conditions exist.
+Encounter Orders : Ruin will ignore all.
+Military Orders : Explore and map.
+Party ID# 3937 inside the Ruin:
+=>Rudel  ID# 2533 <Alive> Kind des Chaos Schwarzer Drache Male
+ {Masked}.
+=>Oerutrac  ID# 2982 <Alive> Gorgone Male
+ {Masked}.
+=>Zekan  ID# 3282 <Alive> Kind des Chaos Schwarzer Drache Male with Weisser Rabe familiar.
+ {Masked}.
+=>Gromouriel  ID# 2516 <Alive> Wolkendrache Female
+ {Masked}.
+Party ID# 563 inside the Ruin:
+=>Logan of Riverguard  ID# 31 <Alive> Meister des Mondes Mensch Female
+=>Lican the Hotshot  ID# 223 <Alive> Volksheld Halbelf Female with Kleiner Daemon familiar.
+ {Masked}.
+=>Black Rhodes  ID# 766 <Alive> Missklangbringer Zwerg Male with Teufelchen familiar.
+ {Masked}.
+=>Sir Lyson  ID# 1003 <Insane> Meister Novize Mensch Male with Reifer Drache familiar.
+ {Masked}.
+=>Ohtar Spheremaster  ID# 1359 <Alive> Champion Novize Mensch Male with ORATS Meister familiar.
